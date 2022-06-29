@@ -3,6 +3,16 @@ entries:
   alc-collect:
   - apiVersion: v2
     appVersion: 2.12.0
+    created: "2022-06-29T07:26:40.025640745Z"
+    description: Helm chart for ALC collect application
+    digest: 2580657555cdee4dd1d1e19ce75418f6a18aa650e488dfd5f2d872a7db830100
+    name: alc-collect
+    type: application
+    urls:
+    - https://github.com/hrvestigo/helm-test/releases/download/alc-collect-2.12.1/alc-collect-2.12.1.tgz
+    version: 2.12.1
+  - apiVersion: v2
+    appVersion: 2.12.0
     created: "2022-06-29T07:19:00.22873005Z"
     description: Helm chart for ALC collect application
     digest: ad804c5aff2ec0de8e022946dbde38de6e9fcb5aebcd9406613839c93fb5901d
@@ -81,4 +91,4 @@ entries:
     urls:
     - https://github.com/hrvestigo/helm-test/releases/download/alc-collect-2.6.0/alc-collect-2.6.0.tgz
     version: 2.6.0
-generated: "2022-06-29T07:19:00.228786851Z"
+generated: "2022-06-29T07:26:40.025721931Z"
