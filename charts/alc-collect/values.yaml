@@ -1,5 +1,5 @@
 nameOverride: ''
-enableLiquibase: true
+enableLiquibase: false
 image:
   registry: docker.io
   pullPolicy: IfNotPresent
@@ -10,7 +10,7 @@ image:
   liquibase:
     registry: null
     pullPolicy: null
-    version: 2.17.0
+    version: 2.19.0
 imagePullSecrets: []
 datasource:
   host: ''
